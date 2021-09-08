@@ -44,3 +44,13 @@ Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds
 2021-09-06 09:34:34 INFO     
 ====>Mobile APP and NRF Board Connected Successfullly
 2021-09-06 09:34:34 INFO     Testcase Passed
+2021-09-08 08:28:08 INFO     TestCase Base
+2021-09-08 08:28:08 INFO     Run the Test Case
+2021-09-08 08:28:22 INFO     ====>Advertisement for DIS Application Successfully
+2021-09-08 08:28:22 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-08 08:28:38 INFO     
+====>Mobile APP and NRF Board Connected Successfullly
+2021-09-08 08:28:38 INFO     Testcase Passed
